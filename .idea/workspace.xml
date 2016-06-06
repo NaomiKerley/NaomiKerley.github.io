@@ -13,6 +13,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2012-05-22-readability-post.md" afterPath="$PROJECT_DIR$/_posts/2012-05-22-readability-post.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.md" afterPath="$PROJECT_DIR$/about/index.md" />
     </list>
     <ignored path="NaomiKerley.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,11 +54,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2012-05-22-readability-post.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2012-05-22-readability-post.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2012-05-22-readability-post.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21019109">
+            <state vertical-scroll-proportion="-2.9464285">
               <caret line="11" column="98" selection-start-line="11" selection-start-column="98" selection-end-line="11" selection-end-column="98" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about/index.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.15286624">
+              <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -77,6 +91,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2012-05-22-readability-post.md" />
+        <option value="$PROJECT_DIR$/about/index.md" />
       </list>
     </option>
   </component>
@@ -182,7 +197,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_posts" />
+              <option name="myItemId" value="about" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -416,17 +431,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/robots.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -453,8 +457,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2012-05-22-readability-post.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21019109">
+        <state vertical-scroll-proportion="-2.9464285">
           <caret line="11" column="98" selection-start-line="11" selection-start-column="98" selection-end-line="11" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about/index.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15286624">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
           <folding />
         </state>
       </provider>
