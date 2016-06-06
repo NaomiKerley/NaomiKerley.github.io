@@ -9,4 +9,4 @@ comments: true
 
 ## This is a test using github.io
 ![Esther]({{ site.url }}/assets/img/avatar.jpg)
-That is a picture of esther
+That is a picture of esther.  I am using it as a test to show how pictures can be added to a post.
