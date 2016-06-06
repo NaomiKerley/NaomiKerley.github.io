@@ -8,5 +8,5 @@ comments: true
 ---
 
 ## This is a test using github.io
-![Esther]({{ site.url }}/assets/avatar.jpg)
+![Esther]({{ site.url }}/assets/img/avatar.jpg)
 That is a picture of esther
